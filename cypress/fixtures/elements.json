@@ -1,0 +1,27 @@
+{
+    "field": {
+        "name": "#user",
+        "email": "#email",
+        "password": "#password"
+    },
+    
+    "button": {
+        "confirmRegister": "#btnRegister",
+        "registerPage": ".fa.fa-lock"
+    },
+    
+    "image": {
+        "logo": ".header-logo"
+    },
+    
+    "messages": {
+        "fieldName": "O campo nome deve ser prenchido",
+        "fieldEmail": "O campo e-mail deve ser prenchido corretamente",
+        "fieldPassword": "O campo senha deve ter pelo menos 6 dígitos",
+        "error": "#errorMessageFirstName",
+        "titleSuccessRegister": ".swal2-title",
+        "subtitleSuccessRegister": ".swal2-html-container"
+    },
+
+    "registerForm": ".account_form"
+}
