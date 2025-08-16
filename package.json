@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000a\u0000u\u0000t\u0000o\u0000m\u0000a\u0000c\u0000a\u0000o\u0000_\u0000c\u0000a\u0000d\u0000a\u0000s\u0000t\u0000r\u0000o\u0000_\u0000e\u0000_\u0000l\u0000o\u0000g\u0000i\u0000n\u0000\r\u0000 \u0000",
   "dependencies": {
     "cypress": "^14.5.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelMainieri/automacao_cadastro_e_login.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RafaelMainieri/automacao_cadastro_e_login/issues"
+  },
+  "homepage": "https://github.com/RafaelMainieri/automacao_cadastro_e_login#readme"
 }

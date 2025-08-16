@@ -1,27 +1,54 @@
 {
-    "field": {
-        "name": "#user",
-        "email": "#email",
-        "password": "#password"
-    },
-    
-    "button": {
-        "confirmRegister": "#btnRegister",
-        "registerPage": ".fa.fa-lock"
-    },
-    
-    "image": {
-        "logo": ".header-logo"
-    },
-    
-    "messages": {
-        "fieldName": "O campo nome deve ser prenchido",
-        "fieldEmail": "O campo e-mail deve ser prenchido corretamente",
-        "fieldPassword": "O campo senha deve ter pelo menos 6 dígitos",
-        "error": "#errorMessageFirstName",
-        "titleSuccessRegister": ".swal2-title",
-        "subtitleSuccessRegister": ".swal2-html-container"
+    "form": ".account_form",
+
+    "homePage": {
+        "buttons": {
+            "loginPage": ".fa.fa-user",
+            "registerPage": ".fa.fa-lock"
+        },
+
+        "imgLogo": ".header-logo"
     },
 
-    "registerForm": ".account_form"
+
+    "loginPage": {
+        "fields": {
+            "errorMessage": ".invalid_input",
+            "email": "#user",
+            "password": "#password",
+            "titleSuccessLogin": ".swal2-title",
+            "subtitleSuccessLogin": ".swal2-html-container"
+        },
+
+        "buttons": {
+            "confirmLogin": "#btnLogin"
+        },
+
+        "messages": {
+            "email": "E-mail inválido.",
+            "password": "Senha inválida."
+        }
+    },
+
+
+    "registerPage": {
+        "fields": {
+            "name": "#user",
+            "email": "#email",
+            "password": "#password",
+            "errorMessage": "#errorMessageFirstName",
+            "titleSuccessRegister": ".swal2-title",
+            "subtitleSuccessRegister": ".swal2-html-container"
+        },
+
+        "buttons": {
+            "confirmRegister": "#btnRegister"
+        },
+
+        "messages": {
+            "name": "O campo nome deve ser prenchido",
+            "email": "O campo e-mail deve ser prenchido corretamente",
+            "password": "O campo senha deve ter pelo menos 6 dígitos"
+        }
+    }
 }
