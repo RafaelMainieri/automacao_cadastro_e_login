@@ -1,0 +1,20 @@
+{
+    "form": ".account_form",
+
+    "fields": {
+        "errorMessage": ".invalid_input",
+        "email": "#user",
+        "password": "#password",
+        "titleSuccessLogin": ".swal2-title",
+        "subtitleSuccessLogin": ".swal2-html-container"
+    },
+
+    "buttons": {
+        "confirmLogin": "#btnLogin"
+    },
+
+    "messages": {
+        "email": "E-mail inválido.",
+        "password": "Senha inválida."
+    }
+}

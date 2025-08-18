@@ -1,0 +1,8 @@
+{
+    "imgLogo": ".header-logo",
+
+    "buttons": {
+        "loginPage": ".fa.fa-user",
+        "registerPage": ".fa.fa-lock"
+    }
+}
