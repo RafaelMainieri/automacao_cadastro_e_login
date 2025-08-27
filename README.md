@@ -1,4 +1,4 @@
-﻿# automacao_cadastro_e_login
+﻿# Automação de Testes | Cadastro & Login
 
 ## 📌 Sobre o Projeto
 
@@ -38,3 +38,4 @@ Essa estrutura facilita a manutenção, leitura e reutilização dos testes.
 → JavaScript
 
 → Node.js
+
