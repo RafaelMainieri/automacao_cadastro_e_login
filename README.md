@@ -39,3 +39,21 @@ Essa estrutura facilita a manutenção, leitura e reutilização dos testes.
 
 → Node.js
 
+## ⏯️ Executar script
+
+1. Clonar repositório;
+2. Instalar as dependências;
+   
+   <code>npm init -y</code>
+   
+3. Instalar o Cypress;
+
+   <code>npm install cypress</code>
+   <code>npx cypress install --force</code>
+
+4. Abrir o Cypress;
+   
+   <code>npx cypress open</code>
+ 
+
+
